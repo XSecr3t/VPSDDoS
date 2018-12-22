@@ -5,7 +5,7 @@
 # yum install gcc -y
 # yum update press y then enter
 # cpan, press enter x2
-# udo
+# sudo
 # install Raw::NetIP
 # exit
 # Open WinSCP
